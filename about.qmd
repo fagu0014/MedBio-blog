@@ -1,0 +1,14 @@
+---
+title: "About me"
+image: profile.jpg
+about: "Im a first yeas PhD student learning bioinformatics for my projects to understand circulating tumor cells in prostate cancer"
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+ 
+
+---
+
+
