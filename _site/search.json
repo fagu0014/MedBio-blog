@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Fannys MedBio Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 3, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "DAY 1\n\n\n\nnews\n\n\n\n\n\n\n\nFanny Gustafsson\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nFanny Gustafsson\n\n\nOct 6, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "DAY 1",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Today was the first day of the course after a short introduction and coffe brake we had the first task. I learned how to collaborate using Git and Github, we all had to add our first and last name to a branch and then merge all stuents to finally have a list of all students in alfabetical order. Andter lunch we created our own blog using quarto and vscode!"
   },
   {
     "objectID": "about.html",
@@ -25,6 +25,6 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post in my blog where i will write about my learning during the Applied bioinformatics course in Uppsala"
   }
 ]

@@ -1,11 +1,11 @@
 ---
 title: "About me"
 image: profile.jpg
-about: "Im a first yeas PhD student learning bioinformatics for my projects to understand circulating tumor cells in prostate cancer"
+about: 
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
+    - icon: LinkedIn
+      text: Linkedin
       href: https://twitter.com
  
 

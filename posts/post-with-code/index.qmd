@@ -1,9 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "DAY 1"
+author: "Fanny Gustafsson"
 date: "2025-10-06"
-categories: [news, code, analysis]
+categories: [news]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+Today was the first day of the course after a short introduction and coffe brake we had the first task. I learned how to collaborate using Git and Github, we all had to add our first and last name to a branch and then merge all stuents to finally have a list of all students in alfabetical order. Andter lunch we created our own blog using quarto and vscode!

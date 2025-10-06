@@ -12,8 +12,8 @@
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Sun, 05 Oct 2025 22:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
+  <title>DAY 1</title>
+  <dc:creator>Fanny Gustafsson</dc:creator>
   <link>https://your-website-url.example.com/posts/post-with-code/</link>
   <description><![CDATA[ 
 
@@ -21,21 +21,19 @@
 
 
 
-<p>This is a post with executable code.</p>
+<p>Today was the first day of the course after a short introduction and coffe brake we had the first task. I learned how to collaborate using Git and Github, we all had to add our first and last name to a branch and then merge all stuents to finally have a list of all students in alfabetical order. Andter lunch we created our own blog using quarto and vscode!</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
   <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
   <pubDate>Sun, 05 Oct 2025 22:00:00 GMT</pubDate>
   <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <dc:creator>Fanny Gustafsson</dc:creator>
   <link>https://your-website-url.example.com/posts/welcome/</link>
   <description><![CDATA[ 
 
@@ -43,16 +41,15 @@
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p>This is the first post in my blog where i will write about my learning during the Applied bioinformatics course in Uppsala</p>
+<p><img src="https://your-website-url.example.com/posts/welcome/DNA-data-strand-web.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
   <category>news</category>
   <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Thu, 02 Oct 2025 22:00:00 GMT</pubDate>
+  <pubDate>Sun, 05 Oct 2025 22:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
