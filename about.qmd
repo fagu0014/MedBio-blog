@@ -2,11 +2,8 @@
 title: "About me"
 image: profile.jpg
 about: 
-  template: jolla
-  links:
-    - icon: LinkedIn
-      text: Linkedin
-      href: https://twitter.com
+  template: marquee
+  
  
 
 ---

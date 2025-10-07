@@ -1,0 +1,22 @@
+---
+title: "DAY 2"
+author: "Fanny Gustafsson"
+date: "2025-10-06"
+categories: [news]
+image: "image.jpg"
+---
+
+PIXI & CONTAINERS 
+In the morning we had an introduction to pixi which is an environment used to acess a wanted environmennt or version of a program. we used it for preforming quality analysis of RNAseq data with fastqc and multiqc. 
+commands learned 
+mkdir - make directory (pre-tasks)
+pwd - to see where you are (pre-tasks)
+ls - list 
+ln -s link data, making it visible without adding to a directory.
+
+After lunch we worked with containers.By creating or downloading a container i can use a tool in it. First we downloaded a container to run the fastqc analysis and later created our own container and run a tool to create a cow privding the date or a fortune. 
+
+take home for today for me was to be aware of different directory and paths and to dubble chech several times when the code is not running! 
+
+
+

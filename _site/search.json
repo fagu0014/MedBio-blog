@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Fannys MedBio Blog",
     "section": "",
-    "text": "DAY 1\n\n\n\nnews\n\n\n\n\n\n\n\nFanny Gustafsson\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nFanny Gustafsson\n\n\nOct 6, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "DAY 1\n\n\n\nnews\n\n\n\n\n\n\n\nFanny Gustafsson\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDAY 2\n\n\n\nnews\n\n\n\n\n\n\n\nFanny Gustafsson\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nFanny Gustafsson\n\n\nOct 6, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,19 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in my blog where i will write about my learning during the Applied bioinformatics course in Uppsala"
+  },
+  {
+    "objectID": "posts/post-day-2/index.html",
+    "href": "posts/post-day-2/index.html",
+    "title": "DAY 2",
+    "section": "",
+    "text": "PIXI & CONTAINERS In the morning we had an introduction to pixi which is an environment used to acess a wanted environmennt or version of a program. we used it for preforming quality analysis of RNAseq data with fastqc and multiqc. commands learned mkdir - make directory (pre-tasks) pwd - to see where you are (pre-tasks) ls - list ln -s link data, making it visible without adding to a directory.\nAfter lunch we worked with containers.By creating or downloading a container i can use a tool in it. First we downloaded a container to run the fastqc analysis and later created our own container and run a tool to create a cow privding the date or a fortune.\ntake home for today for me was to be aware of different directory and paths and to dubble chech several times when the code is not running!"
+  },
+  {
+    "objectID": "posts/post-day-1/index.html",
+    "href": "posts/post-day-1/index.html",
+    "title": "DAY 1",
+    "section": "",
+    "text": "Today was the first day of the course after a short introduction and coffe brake we had the first task. I learned how to collaborate using Git and Github, we all had to add our first and last name to a branch and then merge all stuents to finally have a list of all students in alfabetical order. Andter lunch we created our own blog using quarto and vscode!"
   }
 ]
